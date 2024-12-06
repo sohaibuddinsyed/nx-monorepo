@@ -1,0 +1,12 @@
+{
+  "name": "bankA-app-e2e",
+  "version": "0.0.1",
+  "private": true,
+  "nx": {
+    "projectType": "application",
+    "sourceRoot": "bankA-app-e2e/src",
+    "implicitDependencies": [
+      "bankA-app"
+    ]
+  }
+}
