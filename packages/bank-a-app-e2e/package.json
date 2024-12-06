@@ -1,12 +1,12 @@
 {
-  "name": "@my-org/bankA-app-e2e",
+  "name": "@my-org/bank-a-app-e2e",
   "version": "0.0.1",
   "private": true,
   "nx": {
     "projectType": "application",
-    "sourceRoot": "packages/bankA-app-e2e/src",
+    "sourceRoot": "packages/bank-a-app-e2e/src",
     "implicitDependencies": [
-      "packages/bankA-app"
+      "packages/bank-a-app"
     ]
   }
 }

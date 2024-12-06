@@ -13,7 +13,7 @@ export default function Index() {
           <div id="welcome">
             <h1>
               <span> Hello there, </span>
-              Welcome bankA-app 👋
+              Welcome bank-a-app 👋
             </h1>
           </div>
 
@@ -397,7 +397,7 @@ export default function Index() {
                 </svg>
                 View project details
               </summary>
-              <pre>nx show project bankA-app --web</pre>
+              <pre>nx show project bank-a-app --web</pre>
             </details>
             <details>
               <summary>

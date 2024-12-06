@@ -10,6 +10,6 @@
   "nx": {
     "name": "bank-a-app",
     "projectType": "application",
-    "sourceRoot": "packages/bankA-app/src"
+    "sourceRoot": "packages/bank-a-app/src"
   }
 }
