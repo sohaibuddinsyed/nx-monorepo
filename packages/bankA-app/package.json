@@ -1,5 +1,5 @@
 {
-  "name": "@org/bank-a-app",
+  "name": "@my-org/bank-a-app",
   "version": "0.0.1",
   "private": true,
   "dependencies": {
@@ -10,6 +10,6 @@
   "nx": {
     "name": "bank-a-app",
     "projectType": "application",
-    "sourceRoot": "bankA-app"
+    "sourceRoot": "packages/bankA-app/src"
   }
 }
