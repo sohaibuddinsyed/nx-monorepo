@@ -11,6 +11,9 @@
     },
     {
       "path": "./bank-a-app"
+    },
+    {
+      "path": "./apps/my-new-app"
     }
   ]
 }
