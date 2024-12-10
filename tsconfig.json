@@ -7,13 +7,10 @@
       "path": "./packages/pkg1"
     },
     {
-      "path": "./bank-a-app-e2e"
-    },
-    {
-      "path": "./bank-a-app"
-    },
-    {
       "path": "./apps/my-new-app"
+    },
+    {
+      "path": "./packages/bank-a-app"
     }
   ]
 }

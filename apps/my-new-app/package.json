@@ -1,5 +1,5 @@
 {
-  "name": "@org/my-new-app",
+  "name": "my-new-app",
   "version": "0.0.1",
   "private": true,
   "dependencies": {
